@@ -15,3 +15,15 @@ The goal of this project is to develop a classification model to predict the lev
 
 This repository contains code and resources for building and evaluating a mood swings classification model. It includes data preprocessing, model development, and evaluation steps using Python in a Jupyter Notebook environment.
 
+## Getting Started
+
+To run this project locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/FzBerradi/Mental_Health_Maching_Learning.git
+2. Install the required Python libraries:
+pip install numpy pandas matplotlib seaborn scikit-learn
+3. Launch Jupyter Notebook:
+jupyter notebook
+4. Open the notebook (Mental_Health_Maching_Learning.ipynb) and follow the instructions to execute the cells.
